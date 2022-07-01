@@ -39,7 +39,7 @@ const PokeType = ({ pokemons, setfilterPokemon }) => {
   return (
     <article>
       <form>
-        <input className="margin4"
+        <input className="margin5"
           type="text"
           placeholder="Find your pokemon!"
           value={search}

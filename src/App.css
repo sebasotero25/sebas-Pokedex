@@ -71,9 +71,12 @@ span{
  
   }
 .margin4{
-  margin-left: 4%;
-  margin-bottom: 2%;
+  margin-left: 40%;
  
+}
+.margin5{
+  margin-left: 9%;
+  margin-bottom: 2%;
 }
 .grass{
   background: linear-gradient(to bottom, #8ACBC5,#C2DFA4);
